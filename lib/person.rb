@@ -2,4 +2,4 @@
    
  end 
  
- defines a local variable 
+adele_goldberg = Person.new
